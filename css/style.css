@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #000;
+}
+
+.content{
+    position: absolute;
+    display: flex;
+    top: 235px;
+    left: 110px;
+    width: 260px;
+    height: 360px;
+    background: rgba(255, 255, 255, 0.329);
+}
