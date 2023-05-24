@@ -32,6 +32,7 @@ body{
     border-radius: 5px;
     margin-top: 110px;
     margin-left: 80px;
+    border: linear-gradient(to right,#5e86ba 0%, #9f649e 100%);
     transition: 0.4s ease all;
 }
 
@@ -53,5 +54,22 @@ body{
     transform: translateY(-50%);
     cursor: pointer;
     transition: 0.4s ease all;
+}
+
+.content .btnn{
+    background: linear-gradient(to right, #3498e4 0%, #48d4f4 100%);
+    outline: none;
+    width: 210px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 78px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s ease all;
+}
+
+.content .btnn:hover{
+    color: #fff;
 }
 
