@@ -18,7 +18,7 @@ body{
 .content{
     position: absolute;
     display: flex;
-    top: 225px;
+    top: 125px;
     left: 50px;
     width: 360px;
     height: 460px;
