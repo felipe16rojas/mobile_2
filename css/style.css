@@ -20,8 +20,8 @@ body{
     display: flex;
     top: 125px;
     left: 50px;
-    width: 360px;
-    height: 460px;
+    width: 310px;
+    height: 350px;
     background: rgba(255, 255, 255, 0.329);
 }
 
@@ -31,7 +31,7 @@ body{
     height: 50px;
     border-radius: 5px;
     margin-top: 110px;
-    margin-left: 80px;
+    margin-left: 50px;
     border: linear-gradient(to right,#5e86ba 0%, #9f649e 100%);
     transition: 0.4s ease all;
 }
@@ -42,14 +42,14 @@ body{
     height: 50px;
     border-radius: 5px;
     margin-top: 45px;
-    margin-left: 80px;
+    margin-left: 50px;
     transition: 0.4s ease all;
 }
 
 .icon-eye {
     /* background: coral; */
     position: absolute;
-    right: 90px;
+    right: 110px;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
@@ -62,11 +62,18 @@ body{
     width: 210px;
     height: 50px;
     margin-top: 20px;
-    margin-left: 78px;
+    margin-left: 50px;
     height: 50px;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.4s ease all;
+}
+
+h1{
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    text-align: center;
 }
 
 .content .btnn:hover{
