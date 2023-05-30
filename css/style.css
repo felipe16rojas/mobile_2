@@ -18,7 +18,7 @@ body{
 .content{
     position: absolute;
     display: flex;
-    top: 125px;
+    top: 245px;
     left: 35px;
     width: 290px;
     height: 350px;
@@ -31,7 +31,7 @@ body{
     height: 50px;
     border-radius: 5px;
     margin-top: 110px;
-    margin-left: 50px;
+    margin-left: 35px;
     border: linear-gradient(to right,#5e86ba 0%, #9f649e 100%);
     transition: 0.4s ease all;
 }
@@ -42,7 +42,7 @@ body{
     height: 50px;
     border-radius: 5px;
     margin-top: 45px;
-    margin-left: 50px;
+    margin-left: 35px;
     transition: 0.4s ease all;
 }
 
@@ -62,7 +62,7 @@ body{
     width: 210px;
     height: 50px;
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 35px;
     height: 50px;
     border-radius: 5px;
     cursor: pointer;
