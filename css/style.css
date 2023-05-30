@@ -19,7 +19,7 @@ body{
     position: absolute;
     display: flex;
     top: 125px;
-    left: 50px;
+    left: 5px;
     width: 290px;
     height: 350px;
     background: rgba(255, 255, 255, 0.329);
