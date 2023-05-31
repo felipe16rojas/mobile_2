@@ -71,9 +71,11 @@ body{
 
 h1{
     position: absolute;
-    top: 25px;
-    left: 50px;
+    top: 50px;
+    left: 70px;
     text-align: center;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .content .btnn:hover{
